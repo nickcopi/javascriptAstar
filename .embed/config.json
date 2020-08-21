@@ -1,0 +1,11 @@
+{
+	"name":"Astar Javascript",
+	"tags":["Visualization"],
+	"description":"Astar pathfinding animation through a randomized maze.",
+	"embed":{
+		"width":520,
+		"height":520,
+		"file":"astar.html"
+	},
+	"date":"December 2018"
+}
